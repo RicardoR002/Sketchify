@@ -84,7 +84,7 @@ def main():
     )
     
     st.title("✏️ Sketchify")
-    st.subheader("Convert photos to coloring pages")
+    st.subheader("Convert an image to a sketch with adjustable detail level")
     
     # Sidebar for controls
     st.sidebar.title("Controls")
