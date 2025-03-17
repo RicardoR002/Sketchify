@@ -1,6 +1,6 @@
 # Sketchify
 
-Sketchify is a Streamlit application that converts photos into black and white outline sketches suitable for printing and coloring.
+Sketchify is a Streamlit application that converts photos into black and white outline sketch with adjustable detail level
 
 ## Features
 
